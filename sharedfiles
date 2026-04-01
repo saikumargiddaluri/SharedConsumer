@@ -1,0 +1,27 @@
+Brightness
+illumination mode
+Auto, Day, Night
+General settings..
+list of left panel list items...
+
+Colors
+
+ <color name="normal">#E1E1E1</color>
+   <color name="white_color">#FFFFFF</color>
+ <color name="scrollbar_thumb_color">#1FF8F8</color>
+
+Drawables:
+
+R.drawable.gen_ico_brightness_n
+
+R.drawable.gen_ico_night_n
+R.drawable.gen_ico_daynight_n
+R.drawable.gen_btn_radio_on
+R.drawable.gen_btn_radio_off
+ R.drawable.gen_ico_minus_n
+R.drawable.gen_ico_plus_n
+R.drawable.progress_bar_gradient
+R.drawable.circle_drawable
+R.drawable.gen_gfx_primaryinfo_highlight_xl
+R.drawable.gen_ico_scroll_arrow_up_n
+R.drawable.gen_ico_scroll_arrow_down_n
